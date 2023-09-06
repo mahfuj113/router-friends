@@ -1,7 +1,7 @@
 import './App.css';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from './Components/Home/Home';
-import NoMatch from './Components/HoMatch/NoMatch';
+import NoMatch from './Components/NoMatch/NoMatch';
 import FriendDetail from './Components/FriendDetail/FriendDetail';
 
 function App() {
